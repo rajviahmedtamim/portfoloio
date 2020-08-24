@@ -1,0 +1,86 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: #dbe3e5;
+}
+
+.banner-column {
+    background-color: #776d8a;
+}
+
+.navbar-container {
+    background-color: #262b37;
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container {
+    background-color: #519872;
+}
+
+.education-container {
+    overflow: hidden;
+    background-color: #eeeeee;
+}
+
+.bg-redtype {
+    background-color: #fb8578;
+}
+
+.bg-redtype:hover {
+    color: #000000 !important;
+}
+
+.redtype-color {
+    color: #fb8578;
+}
+
+.circle-edu {
+    background-color: #fb8578;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container {
+    background-color: #68b0ab;
+}
+
+.protfolio-container {
+    background-color: #ffffff;
+}
+
+.gallery-container {
+    background-color: #d3c09a;
+}
+
+.form-container {
+    background-color: #474d5d;
+}
+
+.inner-form {
+    background-color: #585f73;
+}
+
+.footer {
+    background-color: #2bb3dd;
+}
+
+.circle {
+    background-color: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: #2bb3dd;
+}
+
+.circle:hover {
+    background-color: #262b37;
+    color: #ffffff;
+}
